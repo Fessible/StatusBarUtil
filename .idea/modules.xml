@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StatusBar.iml" filepath="$PROJECT_DIR$/StatusBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statusbarutil/statusbarutil.iml" filepath="$PROJECT_DIR$/statusbarutil/statusbarutil.iml" />
     </modules>
   </component>
 </project>

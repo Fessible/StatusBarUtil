@@ -18,7 +18,6 @@ import android.widget.FrameLayout;
 public class SystemBarTintManager {
 
     public static final int DEFAULT_TINT_COLOR = 0x99000000;
-    
     private boolean mStatusBarAvailable;
     private boolean mStatusBarTintEnabled;
     private View mStatusBarTintView;

@@ -35,6 +35,14 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-查看详细解析：http://www.fessible.club/2018/01/13/%E7%8A%B6%E6%80%81%E6%A0%8F%E5%B7%A5%E5%85%B7/
+### 效果显示
+<img src="http://ww1.sinaimg.cn/large/83029c1egy1fnf14lux49j208g01tq2p.jpg"/>
+
+[详细解析][1]
+
+
+  [1]: http://www.fessible.club/2018/01/13/%E7%8A%B6%E6%80%81%E6%A0%8F%E5%B7%A5%E5%85%B7/
+
+
 
 

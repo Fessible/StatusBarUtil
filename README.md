@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### 效果显示
-<img src="http://ww1.sinaimg.cn/large/83029c1egy1fnf14lux49j208g01tq2p.jpg"/>
+<img src="result.png" width="300px" />
 
 [详细解析][1]
 
